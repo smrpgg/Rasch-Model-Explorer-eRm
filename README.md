@@ -32,7 +32,7 @@ The first item difficulty is recovered using the sum‑to‑zero constraint:
 This ensures the full set of item difficulty parameters can be visualized correctly.
 
 ## Example Data
-An example dataset is included (example-data.csv) that can be uploaded directly into the app to test the functionality.
+An example dataset is included (listening_test.csv) that can be uploaded directly into the app to test the functionality.
 The dataset contains simulated Rasch responses for multiple items.
 
 ## Running the App Locally
