@@ -1,4 +1,4 @@
-#Rasch Model Explorer (Shiny + eRm)
+# Rasch Model Explorer (Shiny + eRm)
 
 An interactive Shiny application for exploring the Rasch model using the eRm package in R.  
 The app allows users to upload binary response data and visualize core components of Rasch analysis.
