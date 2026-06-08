@@ -1,10 +1,11 @@
+<img width="851" height="315" alt="Untitled design" src="https://github.com/user-attachments/assets/6d7d9902-3e22-468d-bddb-6f35373265fe" />
+
 # Rasch Model Explorer (Shiny + eRm)
 
 An interactive Shiny application for exploring the Rasch model using the 'eRm' package in R.  
 The app allows users to upload binary response data and visualize core components of Rasch analysis.
 
 ## Live app:  
-https://smrpgg.shinyapps.io/rasch-model-explorer-erm/
 
 ## Features
 
