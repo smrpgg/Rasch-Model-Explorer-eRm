@@ -1,4 +1,4 @@
-<img width="851" height="315" alt="Untitled design" src="https://github.com/user-attachments/assets/6d7d9902-3e22-468d-bddb-6f35373265fe" />
+<img width="1279" height="450" alt="Untitled-1" src="https://github.com/user-attachments/assets/47320c5d-cce2-4f2a-8ea8-cff12fa84884" />
 
 # Rasch Model Explorer (Shiny + eRm)
 
@@ -43,15 +43,19 @@ Run the application:
 shiny::runApp()
 
 
-## Project Structure
-app.R
-example-data.csv
-README.md
-screenshots/
-
-
 ## Packages Used
 - shiny
 - eRm
 - ggplot2
 - bslib
+
+
+<table border="3">
+<tr>
+<td><img src="https://github.com/user-attachments/assets/1b397d78-8573-4c4d-a21e-c931fad8f8f1" width="350"></td>
+<td><img src="https://github.com/user-attachments/assets/50b24fb4-6fa6-4dc2-a2a4-dca7449e34e4" width="350"></td>
+<tr>
+<td><img src="https://github.com/user-attachments/assets/e5e0d58c-7ff5-40b4-a8e3-3afe32a75531" width="350"></td>
+<td><img src="https://github.com/user-attachments/assets/fec967f7-c81d-4620-b912-7a1a911c498a" width="350"></td> 
+</tr>
+</table>
