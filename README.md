@@ -1,4 +1,4 @@
-<img width="1279" height="450" alt="Untitled-1" src="https://github.com/user-attachments/assets/47320c5d-cce2-4f2a-8ea8-cff12fa84884" />
+<img width="1279" height="430" alt="Untitled-2" src="https://github.com/user-attachments/assets/0b126725-262f-4b69-b629-24db2a1686e2" />
 
 # Rasch Model Explorer (Shiny + eRm)
 
